@@ -104,7 +104,7 @@ The Gaussian kernel used:
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 * Only `.tiff` and `.tif` formats are supported (by design).
 * If any image fails to load or save, the error will be shown in the terminal.
