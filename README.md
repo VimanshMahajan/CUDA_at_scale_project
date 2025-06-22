@@ -61,19 +61,7 @@ pip install -r requirements.txt
 
 ## ▶How to Run
 
-### 1. Place Input Images
-
-Put your `.tiff` or `.tif` grayscale images inside the `input_images/` folder.
-
-### 2. Run the Script
-
-```bash
-python gaussian_filter.py
-```
-
-### 3. View Output
-
-Processed and blurred images will be saved in the `output_images/` folder with `_gaussian.tiff` suffix.
+Refer to HOW_TO_RUN.md
 
 
 ---
