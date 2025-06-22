@@ -75,15 +75,6 @@ python gaussian_filter.py
 
 Processed and blurred images will be saved in the `output_images/` folder with `_gaussian.tiff` suffix.
 
----
-
-## Example
-
-| Original (grayscale)                                    | Gaussian Blurred                                         |
-| ------------------------------------------------------- | -------------------------------------------------------- |
-| ![original](https://via.placeholder.com/150?text=Input) | ![blurred](https://via.placeholder.com/150?text=Blurred) |
-
-*(Replace with real images if available)*
 
 ---
 
